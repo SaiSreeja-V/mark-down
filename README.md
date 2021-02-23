@@ -44,10 +44,10 @@ Github(https://github.com/)
 
 **Data**  
 -
-|Name|College|Branch|
-|-----|-----|-----|
-|abc|VRSEC|IT|
-|xyz|VRSEC|CSE|
+|Name|College|Branch|  
+|-----|-----|-----|  
+|abc|VRSEC|IT|  
+|xyz|VRSEC|CSE|  
 
 ~~STRIKED TEXT~~
 
